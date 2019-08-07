@@ -83,6 +83,7 @@
 ## Nodejs概要
 * 流Stream
 * process
+* EventEmitter
 
 ## npm包收集
 * chalk

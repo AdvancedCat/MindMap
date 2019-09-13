@@ -13,18 +13,26 @@
 * 网络安全
 * Git工作流
 
+## 前端框架对比
+* Angular
+* React
+* Vue
+
 ## 前端性能优化
+
 * 资源优先级
 * 关键渲染路径
 * HTTP/2
 * RAIL
 * 像素管道
+* SEO
 * 参考文章
 
 ## 现代浏览器原理
 * 现代浏览器架构
 * 导航Navigation
 * 渲染Rendering
+* 事件Event
 
 # CSS
 ## Flexbox
@@ -60,6 +68,8 @@
 * Iterator遍历器
 * Generator
 * Set/Map
+
+## Eventloop
 
 ## Javascript模块加载
 * CommonJS

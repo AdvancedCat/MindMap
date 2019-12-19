@@ -34,6 +34,12 @@
 * 渲染Rendering
 * 事件Event
 
+## Web Component
+* custom elements
+* shadow DOM
+* HTML templates
+
+
 # CSS
 ## CSS工具
 * Browserslist
